@@ -1,0 +1,5 @@
+number_input = input('Input some number: ')
+first_therm = int(number_input)
+second_therm = int(number_input + number_input)
+third_therm = int(number_input + number_input + number_input)
+print(f'Summ: {first_therm + second_therm + third_therm}')
