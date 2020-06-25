@@ -1,0 +1,5 @@
+Ivan 100000
+Grigory 30000
+Sergey 12000
+Evgeny 23000
+Abdul 1000
